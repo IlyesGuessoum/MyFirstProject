@@ -4,3 +4,9 @@ h1{
 body{
     background-color: aquamarine;
 }
+button{
+    background-color: blue;
+    border-color: aliceblue;
+    border-radius: 100%;
+    
+}
